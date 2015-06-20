@@ -30,5 +30,24 @@
     <string name="accessibility_quick_settings_ambient_display_changed_off">Pantalla ambiente se ha apagado.</string>
     <string name="accessibility_quick_settings_ambient_display_changed_on">Pantalla ambiente se ha encendido.</string>
 
+    <!-- Location Tile -->
+    <string name="accessibility_quick_settings_location_battery_saving">Informes de ubicación: modo de ahorro de batería.</string>
+    <string name="accessibility_quick_settings_location_gps_only">Informes de ubicación: modo solo sensores.</string>
+    <string name="accessibility_quick_settings_location_high_accuracy">Informes de ubicación: modo de alta precisión.</string>
+    <string name="quick_settings_location_battery_saving_label">Ahorro de batería</string>
+    <string name="quick_settings_location_battery_saving_label_twoline">Ahorro\nbatería</string>
+    <string name="quick_settings_location_gps_only_label">Solo GPS</string>
+    <string name="quick_settings_location_gps_only_label_twoline">Solo GPS</string>
+    <string name="quick_settings_location_high_accuracy_label">Alta precisión</string>
+    <string name="quick_settings_location_high_accuracy_label_twoline">Alta\nprecisión</string>
+    <string name="quick_settings_location_detail_title">Ubicación</string>
+    <string name="quick_settings_location_detail_menu_title">Seleccionar modo:</string>
+    <string name="quick_settings_location_detail_mode_high_accuracy_title">Alta precisión</string>
+    <string name="quick_settings_location_detail_mode_battery_saving_title">Ahorro de batería</string>
+    <string name="quick_settings_location_detail_mode_sensors_only_title">Solo dispositivo</string>
+    <string name="quick_settings_location_detail_mode_high_accuracy_description">Use el GPS, WiFi, Bluetooth o redes móviles para determinar la ubicación</string>
+    <string name="quick_settings_location_detail_mode_battery_saving_description">Utilice WiFi, Bluetooth o redes móviles para determinar la ubicación</string>
+    <string name="quick_settings_location_detail_mode_sensors_only_description">Use el GPS para determinar su ubicación</string>     
+
 </resources>
 
