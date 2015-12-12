@@ -23,5 +23,12 @@
     <string name="accessibility_quick_settings_caffeine_off">Cafeína apagada</string>
     <string name="accessibility_quick_settings_caffeine_on">Cafeína encendida</string>
 
+	<!-- Ambient display QS tile -->
+    <string name="quick_settings_ambient_display_label">Pantalla ambiente</string>
+    <string name="accessibility_quick_settings_ambient_display_off">Pantalla ambiente apagada.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">Pantalla ambiente encendida.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_off">Pantalla ambiente se ha apagado.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_on">Pantalla ambiente se ha encendido.</string>
+
 </resources>
 
