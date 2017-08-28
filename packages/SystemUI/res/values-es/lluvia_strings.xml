@@ -56,5 +56,11 @@
     <string name="accessibility_quick_settings_heads_up_changed_off">Notificaciones de vistazo apagadas.</string>
     <string name="accessibility_quick_settings_heads_up_changed_on">Peek notifications encendidas.</string>
 
+    <!-- Advanced reboot -->
+    <string name="global_action_restart_advanced">Avanzado</string>
+    <string name="global_action_restart_recovery">Recuperación</string>
+    <string name="global_action_restart_bootloader">Gestor de arranque</string>
+    <string name="global_action_restart_ui">UI del sistema</string>    
+
 </resources>
 
