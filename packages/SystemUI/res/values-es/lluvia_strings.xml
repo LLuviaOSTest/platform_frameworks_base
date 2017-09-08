@@ -62,5 +62,7 @@
     <string name="global_action_restart_bootloader">Gestor de arranque</string>
     <string name="global_action_restart_ui">UI del sistema</string>    
 
+    <!-- Statusbar tuner -->
+    <string name="statusbar_items_title">Icono de barra de estado</string>
 </resources>
 
