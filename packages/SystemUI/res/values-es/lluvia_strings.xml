@@ -67,6 +67,28 @@
     
     <string name="status_bar_data_saver">Ahorro de datos</string>
     <string name="status_bar_vpn">VPN</string>
-    <string name="status_bar_roaming">Roaming</string>    
+    <string name="status_bar_roaming">Roaming</string> 
+    
+    <!-- Navbar editor -->
+    <string name="preview">Avance</string>
+    <string name="keycode">Código de tecla</string>
+    <string name="no_home_title">No se encontró el botón de inicio</string>
+    <string name="no_home_message">Se requiere un botón de inicio para poder navegar por este dispositivo. Agregue un botón de inicio antes de guardar.</string>
+    <string name="clipboard_description">El Portapapeles permite arrastrar los elementos directamente al portapapeles. Los elementos también se pueden arrastrar directamente del portapapeles cuando están presentes.</string>
+    <string name="keycode_description">Los botones de código de tecla permiten agregar teclas del teclado a la barra de navegación. Cuando se presionan, emulan la tecla del teclado seleccionada. Primero se debe seleccionar la tecla para el botón, seguido de una imagen que se mostrará en el botón.</string>
+    <string name="start">Empezar</string>
+    <string name="center">Centro</string>
+    <string name="end">Fin</string>
+    <string name="space">Espacio</string>
+    <string name="menu_ime">Menú / Conmutador de teclado</string>
+    <string name="select_button">Seleccione el botón para agregar</string>
+    <string name="add_button">Agregar botón</string>
+    <string name="save">Guardar</string>
+    <string name="reset">Reiniciar</string>
+    <string name="select_keycode">Seleccionar botón de teclado</string>
+    <string name="left">Izquierda</string>
+    <string name="right">Derecha</string>
+    <string name="navbar_editor_title">Editor</string>
+    <string name="navbar_editor_summary">Configurar barra de navegación</string>     
 </resources>
 
