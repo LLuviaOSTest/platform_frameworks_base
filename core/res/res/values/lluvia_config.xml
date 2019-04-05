@@ -26,5 +26,8 @@
     <bool name="config_ignoreRssnrSignalLevel">false</bool>
 
     <!-- Component name of the combo network location provider. -->
-    <string name="config_comboNetworkLocationProvider" translatable="false">@null</string>   
+    <string name="config_comboNetworkLocationProvider" translatable="false">@null</string>
+    
+    <!-- Whether to show a custom view for FOD -->
+    <bool name="config_needCustomFODView">false</bool>       
 </resources>

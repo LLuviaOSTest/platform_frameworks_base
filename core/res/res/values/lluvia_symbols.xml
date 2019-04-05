@@ -37,4 +37,6 @@
   <java-symbol type="string" name="reboot_title" />
   <java-symbol type="string" name="reboot_message" />
 
+  <!-- Whether to show a custom view for FOD -->
+  <java-symbol type="bool" name="config_needCustomFODView" />
 </resources>
