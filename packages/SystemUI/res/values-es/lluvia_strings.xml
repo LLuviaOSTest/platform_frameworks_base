@@ -49,5 +49,12 @@
     <string name="quick_settings_location_detail_mode_battery_saving_description">Utilice WiFi, Bluetooth o redes móviles para determinar la ubicación</string>
     <string name="quick_settings_location_detail_mode_sensors_only_description">Use el GPS para determinar su ubicación</string>     
 
+    <!-- Heads Up QS Tile -->
+    <string name="quick_settings_heads_up_label">Notificaciones de vistazo</string>
+    <string name="accessibility_quick_settings_heads_up_off">Notificaciones de vistazo deshabilitadas.</string>
+    <string name="accessibility_quick_settings_heads_up_on">Notificaciones de vistazo habilitadas.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_off">Notificaciones de vistazo apagadas.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_on">Peek notifications encendidas.</string>
+
 </resources>
 
