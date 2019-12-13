@@ -27,4 +27,13 @@
 
     <!-- Component name of the combo network location provider. -->
     <string name="config_comboNetworkLocationProvider" translatable="false">@null</string>   
+
+    <!-- Advanced reboot menu -->
+    <string-array translatable="false" name="config_custom_globalActionsList">
+        <item>power</item>
+        <item>restart</item>
+        <item>advanced</item>
+        <item>screenshot</item>
+        <item>screenrecord</item>
+    </string-array>
 </resources>
