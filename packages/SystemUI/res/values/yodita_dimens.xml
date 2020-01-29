@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
+ * Copyright (c) 2018, Bootleggers ROM
  * Copyright (c) 2019, Yodita
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -16,6 +17,9 @@
 */
 -->
 <resources>
+
+	<!-- Sets a custom extra padding for the QS icons and statusbar date -->
+	<dimen name="qs_items_padding">8dp</dimen>
 
     <!-- Network traffic monitor -->
     <dimen name="net_traffic_txt_img_padding">1dp</dimen>
