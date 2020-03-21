@@ -35,7 +35,7 @@ import android.util.TypedValue;
 import android.view.View;
 import android.widget.TextView;
 
-import com.android.internal.util.yodita.YoditaUtils;
+import com.android.internal.util.lluvia.LLuviaUtils;
 import com.android.systemui.Dependency;
 import com.android.systemui.R;
 import com.android.systemui.plugins.DarkIconDispatcher;
@@ -436,7 +436,7 @@ public class NetworkTrafficSB extends TextView implements StatusIconDisplayable 
     }
 
     private void updateVisibility() {
-        if (!YoditaUtils.hasNotch(mContext) && mIsEnabled &&
+        if (!LLuviaUtils.hasNotch(mContext) && mIsEnabled &&
                 mTrafficVisible && mSystemIconVisible) {
             setVisibility(View.VISIBLE);
         } else {

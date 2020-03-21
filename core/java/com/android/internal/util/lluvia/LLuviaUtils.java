@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.internal.util.yodita;
+package com.android.internal.util.lluvia;
 
 import android.content.Context;
 import android.content.pm.PackageManager;
@@ -30,7 +30,7 @@ import com.android.internal.statusbar.IStatusBarService;
 /**
  * Some custom utilities
  */
-public class YoditaUtils {
+public class LLuviaUtils {
 
     public static void switchScreenOff(Context ctx) {
         PowerManager pm = (PowerManager) ctx.getSystemService(Context.POWER_SERVICE);
